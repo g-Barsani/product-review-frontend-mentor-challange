@@ -1,1 +1,3 @@
-const alertUser = () => alert('Item added to cart!');
+function alertUser() {
+  alert('Item added to cart!');
+}
